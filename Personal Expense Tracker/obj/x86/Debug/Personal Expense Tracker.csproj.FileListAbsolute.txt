@@ -1,0 +1,26 @@
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\bin\x86\Debug\Personal Expense Tracker.exe.config
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\bin\x86\Debug\Personal Expense Tracker.exe
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\bin\x86\Debug\Personal Expense Tracker.pdb
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.csproj.AssemblyReference.cache
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal_Expense_Tracker.ExpenseTracker.resources
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal_Expense_Tracker.Form1.resources
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal_Expense_Tracker.Properties.Resources.resources
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal_Expense_Tracker.RegisterForm.resources
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.csproj.GenerateResource.cache
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.exe
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.pdb
+C:\Users\Zeji\source\repos\PersonalExpenseTracker\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.exe.config
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\bin\x86\Debug\Personal Expense Tracker.exe.config
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\bin\x86\Debug\Personal Expense Tracker.exe
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\bin\x86\Debug\Personal Expense Tracker.pdb
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.csproj.AssemblyReference.cache
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.exe.config
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal_Expense_Tracker.ExpenseTracker.resources
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal_Expense_Tracker.Form1.resources
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal_Expense_Tracker.Properties.Resources.resources
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal_Expense_Tracker.RegisterForm.resources
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.csproj.GenerateResource.cache
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.exe
+C:\Users\Zeji\Source\Repos\PersonalExpenseTck\Personal Expense Tracker\Personal Expense Tracker\obj\x86\Debug\Personal Expense Tracker.pdb
